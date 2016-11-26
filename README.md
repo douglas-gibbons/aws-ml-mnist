@@ -3,7 +3,7 @@
 AWS Machine Learning Example with MNIST data
 
 
-This is an example of using AWS ML to make predictions on the famous ["MNIST" dataset](ttp://yann.lecun.com/exdb/mnist/).
+This is an example of using AWS ML to make predictions on the famous ["MNIST" dataset](http://yann.lecun.com/exdb/mnist/).
 
 The code is an example of how to run AWS Machine Learning with Python.
 
