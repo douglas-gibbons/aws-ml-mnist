@@ -1,0 +1,2369 @@
+{
+  "version" : "1.0",
+  "rowId" : null,
+  "rowWeight" : null,
+  "targetAttributeName" : "prediction",
+  "dataFormat" : "CSV",
+  "dataFileContainsHeader" : false,
+  
+  "attributes" : [ {
+    "attributeName" : "Var001",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var002",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var003",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var004",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var005",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var006",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var007",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var008",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var009",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var010",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var011",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var012",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var013",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var014",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var015",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var016",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var017",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var018",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var019",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var020",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var021",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var022",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var023",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var024",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var025",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var026",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var027",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var028",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var029",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var030",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var031",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var032",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var033",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var034",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var035",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var036",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var037",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var038",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var039",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var040",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var041",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var042",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var043",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var044",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var045",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var046",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var047",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var048",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var049",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var050",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var051",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var052",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var053",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var054",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var055",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var056",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var057",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var058",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var059",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var060",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var061",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var062",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var063",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var064",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var065",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var066",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var067",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var068",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var069",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var070",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var071",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var072",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var073",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var074",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var075",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var076",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var077",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var078",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var079",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var080",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var081",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var082",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var083",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var084",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var085",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var086",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var087",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var088",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var089",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var090",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var091",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var092",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var093",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var094",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var095",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var096",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var097",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var098",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var099",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var100",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var101",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var102",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var103",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var104",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var105",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var106",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var107",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var108",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var109",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var110",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var111",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var112",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var113",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var114",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var115",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var116",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var117",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var118",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var119",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var120",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var121",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var122",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var123",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var124",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var125",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var126",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var127",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var128",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var129",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var130",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var131",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var132",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var133",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var134",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var135",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var136",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var137",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var138",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var139",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var140",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var141",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var142",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var143",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var144",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var145",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var146",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var147",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var148",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var149",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var150",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var151",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var152",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var153",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var154",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var155",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var156",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var157",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var158",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var159",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var160",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var161",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var162",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var163",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var164",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var165",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var166",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var167",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var168",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var169",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var170",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var171",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var172",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var173",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var174",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var175",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var176",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var177",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var178",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var179",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var180",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var181",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var182",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var183",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var184",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var185",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var186",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var187",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var188",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var189",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var190",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var191",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var192",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var193",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var194",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var195",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var196",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var197",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var198",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var199",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var200",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var201",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var202",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var203",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var204",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var205",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var206",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var207",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var208",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var209",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var210",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var211",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var212",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var213",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var214",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var215",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var216",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var217",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var218",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var219",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var220",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var221",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var222",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var223",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var224",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var225",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var226",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var227",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var228",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var229",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var230",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var231",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var232",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var233",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var234",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var235",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var236",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var237",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var238",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var239",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var240",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var241",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var242",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var243",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var244",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var245",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var246",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var247",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var248",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var249",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var250",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var251",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var252",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var253",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var254",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var255",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var256",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var257",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var258",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var259",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var260",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var261",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var262",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var263",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var264",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var265",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var266",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var267",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var268",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var269",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var270",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var271",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var272",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var273",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var274",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var275",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var276",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var277",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var278",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var279",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var280",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var281",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var282",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var283",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var284",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var285",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var286",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var287",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var288",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var289",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var290",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var291",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var292",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var293",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var294",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var295",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var296",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var297",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var298",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var299",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var300",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var301",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var302",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var303",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var304",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var305",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var306",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var307",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var308",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var309",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var310",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var311",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var312",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var313",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var314",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var315",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var316",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var317",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var318",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var319",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var320",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var321",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var322",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var323",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var324",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var325",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var326",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var327",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var328",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var329",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var330",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var331",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var332",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var333",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var334",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var335",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var336",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var337",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var338",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var339",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var340",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var341",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var342",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var343",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var344",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var345",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var346",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var347",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var348",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var349",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var350",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var351",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var352",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var353",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var354",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var355",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var356",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var357",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var358",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var359",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var360",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var361",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var362",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var363",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var364",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var365",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var366",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var367",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var368",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var369",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var370",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var371",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var372",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var373",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var374",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var375",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var376",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var377",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var378",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var379",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var380",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var381",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var382",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var383",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var384",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var385",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var386",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var387",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var388",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var389",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var390",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var391",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var392",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var393",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var394",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var395",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var396",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var397",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var398",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var399",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var400",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var401",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var402",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var403",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var404",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var405",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var406",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var407",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var408",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var409",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var410",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var411",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var412",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var413",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var414",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var415",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var416",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var417",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var418",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var419",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var420",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var421",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var422",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var423",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var424",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var425",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var426",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var427",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var428",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var429",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var430",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var431",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var432",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var433",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var434",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var435",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var436",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var437",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var438",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var439",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var440",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var441",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var442",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var443",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var444",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var445",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var446",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var447",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var448",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var449",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var450",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var451",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var452",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var453",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var454",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var455",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var456",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var457",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var458",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var459",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var460",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var461",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var462",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var463",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var464",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var465",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var466",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var467",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var468",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var469",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var470",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var471",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var472",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var473",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var474",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var475",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var476",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var477",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var478",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var479",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var480",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var481",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var482",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var483",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var484",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var485",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var486",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var487",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var488",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var489",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var490",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var491",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var492",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var493",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var494",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var495",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var496",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var497",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var498",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var499",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var500",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var501",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var502",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var503",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var504",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var505",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var506",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var507",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var508",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var509",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var510",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var511",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var512",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var513",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var514",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var515",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var516",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var517",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var518",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var519",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var520",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var521",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var522",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var523",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var524",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var525",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var526",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var527",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var528",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var529",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var530",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var531",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var532",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var533",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var534",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var535",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var536",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var537",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var538",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var539",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var540",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var541",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var542",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var543",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var544",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var545",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var546",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var547",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var548",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var549",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var550",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var551",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var552",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var553",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var554",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var555",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var556",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var557",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var558",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var559",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var560",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var561",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var562",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var563",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var564",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var565",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var566",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var567",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var568",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var569",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var570",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var571",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var572",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var573",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var574",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var575",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var576",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var577",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var578",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var579",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var580",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var581",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var582",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var583",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var584",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var585",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var586",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var587",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var588",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var589",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var590",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var591",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var592",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var593",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var594",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var595",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var596",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var597",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var598",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var599",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var600",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var601",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var602",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var603",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var604",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var605",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var606",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var607",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var608",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var609",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var610",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var611",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var612",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var613",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var614",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var615",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var616",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var617",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var618",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var619",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var620",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var621",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var622",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var623",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var624",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var625",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var626",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var627",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var628",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var629",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var630",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var631",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var632",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var633",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var634",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var635",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var636",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var637",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var638",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var639",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var640",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var641",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var642",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var643",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var644",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var645",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var646",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var647",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var648",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var649",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var650",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var651",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var652",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var653",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var654",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var655",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var656",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var657",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var658",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var659",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var660",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var661",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var662",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var663",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var664",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var665",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var666",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var667",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var668",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var669",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var670",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var671",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var672",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var673",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var674",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var675",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var676",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var677",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var678",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var679",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var680",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var681",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var682",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var683",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var684",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var685",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var686",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var687",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var688",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var689",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var690",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var691",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var692",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var693",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var694",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var695",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var696",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var697",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var698",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var699",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var700",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var701",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var702",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var703",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var704",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var705",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var706",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var707",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var708",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var709",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var710",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var711",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var712",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var713",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var714",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var715",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var716",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var717",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var718",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var719",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var720",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var721",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var722",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var723",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var724",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var725",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var726",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var727",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var728",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var729",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var730",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var731",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var732",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var733",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var734",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var735",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var736",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var737",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var738",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var739",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var740",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var741",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var742",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var743",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var744",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var745",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var746",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var747",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var748",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var749",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var750",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var751",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var752",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var753",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var754",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var755",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var756",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var757",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var758",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var759",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var760",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var761",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var762",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var763",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var764",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var765",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var766",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var767",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var768",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var769",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var770",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var771",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var772",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var773",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var774",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var775",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var776",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var777",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var778",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var779",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var780",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var781",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var782",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var783",
+    "attributeType" : "NUMERIC"
+  }, {
+    "attributeName" : "Var784",
+    "attributeType" : "NUMERIC"
+  } 
+  , {
+    "attributeName" : "prediction",
+    "attributeType" : "CATEGORICAL"
+  }
+  ],
+  "excludedAttributeNames" : [ ]
+}
+

@@ -1,0 +1,68 @@
+{
+	"Version": "2012-10-17",
+	"Statement": [
+		{
+			"Sid": "1",
+			"Effect": "Allow",
+			"Principal": {
+				"Service": "machinelearning.amazonaws.com"
+			},
+			"Action": [
+				"s3:GetObject",
+				"s3:PutObject"
+			],
+			"Resource": "arn:aws:s3:::zenlymldemo/ml-output/*"
+		},
+		{
+			"Sid": "2",
+			"Effect": "Allow",
+			"Principal": {
+				"Service": "machinelearning.amazonaws.com"
+			},
+			"Action": "s3:PutObjectAcl",
+			"Resource": "arn:aws:s3:::zenlymldemo/ml-output/*",
+			"Condition": {
+				"StringEquals": {
+					"s3:x-amz-acl": "bucket-owner-full-control"
+				}
+			}
+		},
+		{
+			"Sid": "3",
+			"Effect": "Allow",
+			"Principal": {
+				"Service": "machinelearning.amazonaws.com"
+			},
+			"Action": "s3:ListBucket",
+			"Resource": "arn:aws:s3:::zenlymldemo",
+			"Condition": {
+				"StringLike": {
+					"s3:prefix": "zenlymldemo/*"
+				}
+			}
+		},
+		{
+			"Sid": "AmazonML_s3:ListBucket",
+			"Effect": "Allow",
+			"Principal": {
+				"Service": "machinelearning.amazonaws.com"
+			},
+			"Action": "s3:ListBucket",
+			"Resource": "arn:aws:s3:::zenlymldemo",
+			"Condition": {
+				"StringLike": {
+					"s3:prefix": "data/*"
+				}
+			}
+		},
+		{
+			"Sid": "AmazonML_s3:GetObject",
+			"Effect": "Allow",
+			"Principal": {
+				"Service": "machinelearning.amazonaws.com"
+			},
+			"Action": "s3:GetObject",
+			"Resource": "arn:aws:s3:::zenlymldemo/data/*.*"
+		}
+	]
+}
